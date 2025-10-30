@@ -3,7 +3,7 @@
 ### Sobre o projeto:
 Estes projetos foram desenvolvidos como parte da disciplina **Estrutura de Dados** no **IFRJ - Niterói**, com o objetivo de aplicar na prática os conceitos de filas em Python, para entender melhor como elas funcionam e como manipular dados usando esse tipo de estrutura.
 
-Uma **fila** é uma estrutura de dados do tipo FIFO (First In, First Out), ou seja, o primeiro elemento a entrar é o primeiro a sair. Filas são muito usadas em situações como filas de impressão, gerenciamento de tarefas e qualquer cenário em que a ordem de processamento importa.
+Uma **fila** é uma estrutura de dados do tipo FIFO (First In, First Out), ou seja, o primeiro elemento a entrar é o primeiro a sair. Alguns exemplos de filas na prática: fila de cinema, supemercado, médico...
 
 ---
 
