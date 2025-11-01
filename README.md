@@ -38,7 +38,7 @@ Uma **fila** é uma estrutura de dados do tipo ***FIFO (First In, First Out)***,
 
 ### Como usar:
 
-Basta rodar o arquivo Python correspondente a cada trabalho. O programa interage com você, pedindo os itens a inserir e quantos deseja remover, mostrando sempre o estado atual da fila.
+Basta rodar o arquivo Python correspondente a cada trabalho. O programa já insere e remove os valores já incluídos e exibe sempre o estado atual da estrutura.
 
 ---
 
