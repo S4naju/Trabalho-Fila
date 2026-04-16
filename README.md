@@ -10,7 +10,7 @@ Uma **fila** é uma estrutura de dados do tipo ***FIFO (First In, First Out)***,
 ### Estrutura orientada pelo professor:
 
 1. **Trabalho 1: Fila usando `queue.Queue`**  
-   Foi criada uma classe `Fila` como um wrapper da classe Queue do Python, facilitando o uso de filas com controle de tamanho.
+   Foi criada uma classe `Fila` como um wrapper da classe `Queue` do Python, facilitando o uso de filas com controle de tamanho.
    
    **Funcionalidades:**
    - Define tamanho máximo da fila  
